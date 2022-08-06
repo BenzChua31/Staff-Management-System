@@ -1,6 +1,9 @@
 # Staff-Management-System
 Introduction to Software Development Assignment (UTS)
 
+Group Project: IoTBay website (sells IoT gadgets online)
+Each group member are to develop one component/part of the project. I was assigned the Staff Management System to work on for 2 weeks.
+
 - Implemented OOP Concepts
 - Implemented MVC Model 
 - Used JSP to create the user interface
