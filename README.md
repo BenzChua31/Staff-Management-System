@@ -32,3 +32,9 @@ Features:
 - Search for Staff Records
 - No Multiple Login to the Same Account at Once
 - Includes a Validator to validate input 
+
+--------------------------------------------------------
+
+Why this is my proudest achievement?
+
+In that 2 weeks, I spent about 6-8 days (4pm-12am) working on it. In the process of developing this system, I had to research to fully understand the MVC Architecture, how sessions work, how Java Servlets work, how to write SQL statements... I had to spent hours to debug as well. Not just my own system but my group member's part too (despite individually marked). And because of these 2 weeks that I went through, I learnt so much and created something purely from my own self-research. And overall, scored me a full mark on the assignment. 
