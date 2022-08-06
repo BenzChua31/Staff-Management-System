@@ -14,6 +14,7 @@ Introduction to Software Development Assignment (UTS)
 --------------------------------------------------------
 
 Before running the project, please run the following sql files: 03-G25/web/db/createTables.sql, 03-G25/web/db/insertTables.sql
+
 At the main menu, click on Staff Login to access the Staff Management System. 
 
 Credentials: 
