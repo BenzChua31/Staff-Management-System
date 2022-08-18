@@ -13,6 +13,7 @@ Each group member are to develop one component/part of the project. I was assign
 - Database designed to obey Third Normal Form (3NF)
 - Glassfish server used. 
 - System developed on NetBeans. 
+- Bootstrap 5.1 is used to decorate the site and enable responsiveness (UI isn't exactly beautifully decorated but it's minimalistic)
 
 --------------------------------------------------------
 
@@ -37,4 +38,4 @@ Features:
 
 Why this is my proudest achievement?
 
-In that 2 weeks, I spent about 6-8 days (4pm-12am) working on it. In the process of developing this system, I had to research to fully understand the MVC Architecture, how sessions work, how Java Servlets work, how to write SQL statements... I had to spent hours to debug as well. Not just my own system but my group member's part too (despite individually marked). And because of these 2 weeks that I went through, I learnt so much and created something purely from my own self-research. And overall, scored me a full mark on the assignment. 
+In that 2 weeks, I spent about 6-8 days (4pm-12am) working on it. In the process of developing this system, I had to research to fully understand the MVC Architecture, how sessions work, how Java Servlets work, how to write SQL statements... I had to spent hours to debug as well. Not just my own system but my group member's part too (despite individually marked). And because of these 2 weeks that I went through, I learnt so much and created something purely from my own self-research. And overall, scored me a full mark on the assignment.
