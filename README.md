@@ -13,7 +13,19 @@ Each group member are to develop one component/part of the project. I was assign
 - Database designed to obey Third Normal Form (3NF)
 - Glassfish server used. 
 - System developed on NetBeans. 
+- Validator class to validate input entered adopts a valid pattern. 
 - Bootstrap 5.1 is used to decorate the site and enable responsiveness (UI isn't exactly beautifully decorated but it's minimalistic)
+
+To see the Behind-The-Scenes for my Staff Management System:
+- build/web/StaffInfo/... (for the UI design)
+- src/java/controller/staffinfo/... (for the Java Servlets)
+- src/java/controller/Validator.java (for the validator class)
+- src/java/dao/StaffInfoManager.java (for the DB SQL operations)
+- src/java/model/Staff.java (for the Staff application logic)
+
+Also, do checkout the:
+- src/java/dao/DBConnector.java (to see how we enabled the interaction with the database)
+- build/web/WEB-INF/web.xml (for how I enabled access to the Servlets using servlet mappings)
 
 --------------------------------------------------------
 
